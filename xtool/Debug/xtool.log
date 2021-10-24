@@ -1,0 +1,33 @@
+﻿  xtool.cpp
+E:\C++\xtool\xtool\xtool.cpp(167,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(208,27): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\C++\xtool\xtool\xtool.cpp(348,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++\xtool\xtool\xtool.cpp(409,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(535,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(538,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(555,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(557,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(574,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(578,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(596,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(687,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(740,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(913,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1036,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1044,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1108,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1191,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1444,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1516,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1592,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1640,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1648,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1736,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1738,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1743,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(1813,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(2061,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(2125,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(2744,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\xtool\xtool\xtool.cpp(441): warning C4715: “TakeDiagCodeType”: 不是所有的控件路径都返回值
+  xtool.vcxproj -> E:\C++\xtool\Debug\xtool.exe
